@@ -1,0 +1,140 @@
+{
+  "office": {
+    "type": "one_choice"
+  },
+  "Questionnaire": {
+    "type": "id"
+  },
+  "Age": {
+    "type": "one_choice"
+  },
+  "Which_tpl_do_you_have": {
+    "type": "multiple_choice"
+  },
+  "Why_this_mode": {
+    "type": "multiple_choice"
+  },
+  "Gender": {
+    "type": "one_choice"
+  },
+  "Satisfaction_level_with_current_mode": {
+    "type": "numerical_rate"
+  },
+  "Office_entrance_time": {
+    "type": "time"
+  },
+  "Montly_commute_cost": {
+    "type": "one_choice"
+  },
+  "Available_modes": {
+    "type": "multiple_choice"
+  },
+  "Work_home_travel_time_mode_declared": {
+    "type": "numerical_value"
+  },
+  "Work_home_distance_mode": {
+    "type": "numerical_value"
+  },
+  "Main_mode": {
+    "type": "one_choice"
+  },
+  "Work_home_distance_on_foot": {
+    "type": "numerical_value"
+  },
+  "Work_home_travel_time_on_foot": {
+    "type": "numerical_value"
+  },
+  "Work_home_travel_time_on_computed": {
+    "type": "numerical_value"
+  },
+  "Propensity_towards_sharing_mobility": {
+    "type": "multiple_choice"
+  },
+  "Number_of_working_days": {
+    "type": "numerical_value"
+  },
+  "Departure_time_from_house": {
+    "type": "time"
+  },
+  "Annual_tpl_cost": {
+    "type": "one_choice"
+  },
+  "Contract_type": {
+    "type": "one_choice"
+  },
+  "TPL_aspects_expected_importance_rates": {
+    "type": "multi_aspect_rate"
+  },
+  "Distance_to_closest_tpl_stop": {
+    "type": "one_choice"
+  },
+  "TPL_aspects_current_rates": {
+    "type": "multi_aspect_rate"
+  },
+  "Mode_used_to_reach_closest_tpl_stop": {
+    "type": "one_choice"
+  },
+  "Number_of_mode_changes_during_work_home_commute": {
+    "type": "one_choice"
+  },
+  "Relationship_with_company": {
+    "type": "one_choice"
+  },
+  "Parking_problem_at_office": {
+    "type": "one_choice"
+  },
+  "Monthly_parking_cost": {
+    "type": "one_choice"
+  },
+  "Private_car_fuel_type": {
+    "type": "one_choice"
+  },
+  "Emission_standard_of_private_car": {
+    "type": "one_choice"
+  },
+  "Propensity_towards_carpooling_if_info_system_provided": {
+    "type": "one_choice"
+  },
+  "Work_entrance_hour_rigidity": {
+    "type": "one_choice"
+  },
+  "Propensity_towards_biking_if_bike_cost_system_provided": {
+    "type": "one_choice"
+  },
+  "Travel_time_if_using_tpl": {
+    "type": "numerical_value"
+  },
+  "Propensity_towards_tpl": {
+    "type": "multiple_choice"
+  },
+  "Propensity_towards_carpooling": {
+    "type": "multiple_choice"
+  },
+  "Propensity_towards_biking": {
+    "type": "multiple_choice"
+  },
+  "Access_to_parking_spots_at_office": {
+    "type": "one_choice"
+  },
+  "Office_location": {
+    "type": "one_choice"
+  },
+  "Office_has_changing_and_shower_rooms": {
+    "type": "one_choice"
+  },
+  "Parking_availability_at_office": {
+    "type": "one_choice"
+  },
+  "Company_has_bus": {
+    "type": "one_choice"
+  },
+  "Company_has_carpooling_system": {
+    "type": "one_choice"
+  },
+  "Company_has_corporate_cars": {
+    "type": "one_choice"
+  },
+  "Number_of_employees": {
+    "type": "numerical_value"
+  }
+}
